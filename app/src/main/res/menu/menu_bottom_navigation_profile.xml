@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_1"
+        android:icon="@drawable/ic_home"
+        android:title="Beranda" />
+
+    <item
+        android:id="@+id/navigation_4"
+        android:icon="@drawable/ic_developer"
+        android:title="Feed" />
+
+    <item
+        android:id="@+id/navigation_3"
+        android:icon="@drawable/ic_chat_bubble"
+        android:checked="true"
+        android:title="Pesan" />
+
+    <item
+        android:id="@+id/navigation_2"
+        android:icon="@drawable/ic_shopping_cart"
+        android:title="Troli" />
+
+    <item
+        android:id="@+id/navigation_5"
+        android:icon="@drawable/ic_person"
+        android:title="Account" />
+
+</menu>

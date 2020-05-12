@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My-Commerce</string>
+    <string name="product_price1"><strike>9,99 $US</strike></string>
+    <string name="product_price2"><strike>89,99 $US</strike></string>
+    <string name="product_price3"><strike>25,99 $US</strike></string>
+    <string name="strike_price"> <strike>$1459</strike></string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+    </string>
+</resources>
